@@ -19,7 +19,7 @@ This Flutter application fulfills the following functionalities:
 # Technologies Used
 
 1. Flutter SDK: App development framework.
-2. SharedPreferences / Hive: For local data persistence.
+2. SharedPreferences: For local data persistence.
 3. Webview_flutter: For web content rendering.
 4. Mobile Scanner: QR code scanning.
 
